@@ -1,7 +1,7 @@
 # TallerDeEspecificidad
 
 Parte 1:
-
+Puedes ver la presentación completa aquí: [Presentación Especificidad.pdf](Presentación%20Especificidad.pdf)
 Parte 2: Ejemplos Prácticos
 
 Ejemplo básico y demostracion de !important:
