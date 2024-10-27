@@ -23,10 +23,7 @@ pide a los participantes que calculen la especificidad y determinen qué
 estilos se aplicarán.
 ¿Qué color tendrá el título Respuesta esperada:`<h1>`?
 El titulo sera color rojo.
-<div id="main" class="content">
-    <h1>Título</h1>
-<p>Este es un párrafo.</p>
-</div>
+
 ![alt text](image-3.png)
 ![alt text](image-9.png)
 
@@ -41,3 +38,15 @@ Modifica el siguiente código para que el párrafo tenga color amarillo, sin usa
 
 Ejecucion:
 ![alt text](image-8.png)
+
+Parte 4: Desafío Final
+Dales a los participantes un archivo HTML con múltiples elementos y clases, y pídeles que 
+agreguen estilos CSS para lograr un diseño específico. Deberán aplicar todo lo aprendido sobre 
+especificidad para resolver los conflictos y obtener el resultado correcto.
+
+![alt text](image-10.png)
+![alt text](image-11.png)
+
+Ejecucion :
+
+![alt text](image-12.png)
