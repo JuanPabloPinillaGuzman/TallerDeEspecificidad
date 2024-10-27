@@ -19,12 +19,9 @@ pide a los participantes que calculen la especificidad y determinen qué
 estilos se aplicarán.
 ¿Qué color tendrá el título Respuesta esperada:<h1> ?
 El titulo sera color rojo.
-<div id="main" class="content">
-    <h1>Título</h1>
-<p>Este es un párrafo.</p>
-</div>
+
 ![alt text](image-3.png)
-![alt text](image-4.png)
+![alt text](image-9.png)
 
 Ejecucion :
 ![alt text](image-5.png)
